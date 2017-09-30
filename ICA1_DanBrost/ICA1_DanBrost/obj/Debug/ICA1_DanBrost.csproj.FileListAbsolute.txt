@@ -1,0 +1,13 @@
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA1_DanBrost\ICA1_DanBrost\obj\Debug\ICA1_DanBrost.csprojResolveAssemblyReference.cache
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA1_DanBrost\ICA1_DanBrost\obj\Debug\ICA1_DanBrost.frmMain.resources
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA1_DanBrost\ICA1_DanBrost\obj\Debug\ICA1_DanBrost.Properties.Resources.resources
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA1_DanBrost\ICA1_DanBrost\obj\Debug\ICA1_DanBrost.csproj.GenerateResource.Cache
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA1_DanBrost\ICA1_DanBrost\obj\Debug\ICA1_DanBrost.csproj.CoreCompileInputs.cache
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA1_DanBrost\ICA1_DanBrost\bin\Debug\ICA1_DanBrost.exe.config
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA1_DanBrost\ICA1_DanBrost\bin\Debug\ICA1_DanBrost.exe
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA1_DanBrost\ICA1_DanBrost\bin\Debug\ICA1_DanBrost.pdb
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA1_DanBrost\ICA1_DanBrost\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA1_DanBrost\ICA1_DanBrost\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA1_DanBrost\ICA1_DanBrost\obj\Debug\ICA1_DanBrost.exe
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA1_DanBrost\ICA1_DanBrost\obj\Debug\ICA1_DanBrost.pdb
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA1_DanBrost\ICA1_DanBrost\bin\Debug\ICA1_DanBrost.xml
