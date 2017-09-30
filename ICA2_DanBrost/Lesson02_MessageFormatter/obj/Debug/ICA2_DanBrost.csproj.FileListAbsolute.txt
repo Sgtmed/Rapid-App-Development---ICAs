@@ -1,0 +1,10 @@
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe.config
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.MessageForm.resources
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.Properties.Resources.resources
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\ICA2_DanBrost.csproj.GenerateResource.Cache
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\ICA2_DanBrost.csproj.CoreCompileInputs.cache
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.exe
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\ICA2_DanBrost.csprojResolveAssemblyReference.cache

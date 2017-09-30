@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICA2_DanBrost", "Lesson02_MessageFormatter\ICA2_DanBrost.csproj", "{E59FE6E8-F323-4AD9-941E-2FE09FFE2522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = Display name and message in color chosen
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E59FE6E8-F323-4AD9-941E-2FE09FFE2522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59FE6E8-F323-4AD9-941E-2FE09FFE2522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59FE6E8-F323-4AD9-941E-2FE09FFE2522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59FE6E8-F323-4AD9-941E-2FE09FFE2522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10CECBFB-AD12-4238-9065-D439053014A0}
+	EndGlobalSection
+EndGlobal

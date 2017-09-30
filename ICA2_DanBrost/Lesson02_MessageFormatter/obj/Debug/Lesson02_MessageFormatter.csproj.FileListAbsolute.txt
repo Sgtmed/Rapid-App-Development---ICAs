@@ -1,0 +1,72 @@
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe.config
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.pdb
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.MessageForm.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.exe
+c:\users\tom\documents\visual studio 2012\Projects\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\achawla\Documents\Courses\RAD_C#\PowerPoints\chapter2\Code\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe.config
+C:\Users\achawla\Documents\Courses\RAD_C#\PowerPoints\chapter2\Code\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.exe
+C:\Users\achawla\Documents\Courses\RAD_C#\PowerPoints\chapter2\Code\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\achawla\Documents\Courses\RAD_C#\PowerPoints\chapter2\Code\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe
+C:\Users\achawla\Documents\Courses\RAD_C#\PowerPoints\chapter2\Code\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\achawla\Documents\Courses\RAD_C#\PowerPoints\chapter2\Code\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csprojResolveAssemblyReference.cache
+C:\Users\achawla\Documents\Courses\RAD_C#\PowerPoints\chapter2\Code\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.MessageForm.resources
+C:\Users\achawla\Documents\Courses\RAD_C#\PowerPoints\chapter2\Code\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.Properties.Resources.resources
+C:\Users\achawla\Documents\Courses\RAD_C#\PowerPoints\chapter2\Code\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csproj.GenerateResource.Cache
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2015\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe.config
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2015\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.exe
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2015\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2015\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2015\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2015\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csprojResolveAssemblyReference.cache
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2015\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.MessageForm.resources
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2015\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.Properties.Resources.resources
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2015\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csproj.GenerateResource.Cache
+H:\achawla\RADTuesday\Lesson02_MessageFormatter\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe.config
+H:\achawla\RADTuesday\Lesson02_MessageFormatter\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.exe
+H:\achawla\RADTuesday\Lesson02_MessageFormatter\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.pdb
+G:\RAD 2015\Lesson02_MessageFormatter\Lesson02_MessageFormatter\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe.config
+G:\RAD 2015\Lesson02_MessageFormatter\Lesson02_MessageFormatter\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.exe
+G:\RAD 2015\Lesson02_MessageFormatter\Lesson02_MessageFormatter\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2016\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe.config
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2016\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2016\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2016\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csprojResolveAssemblyReference.cache
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2016\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.MessageForm.resources
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2016\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.Properties.Resources.resources
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2016\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csproj.GenerateResource.Cache
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2016\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.exe
+C:\Users\achawla\Documents\Courses\RAD_C#\InclassAssignments2016\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\achawla\Documents\courses\RAD_C#\InclassAssignments2017\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe.config
+C:\Users\achawla\Documents\courses\RAD_C#\InclassAssignments2017\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe
+C:\Users\achawla\Documents\courses\RAD_C#\InclassAssignments2017\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\achawla\Documents\courses\RAD_C#\InclassAssignments2017\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csprojResolveAssemblyReference.cache
+C:\Users\achawla\Documents\courses\RAD_C#\InclassAssignments2017\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.MessageForm.resources
+C:\Users\achawla\Documents\courses\RAD_C#\InclassAssignments2017\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.Properties.Resources.resources
+C:\Users\achawla\Documents\courses\RAD_C#\InclassAssignments2017\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csproj.GenerateResource.Cache
+C:\Users\achawla\Documents\courses\RAD_C#\InclassAssignments2017\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csproj.CoreCompileInputs.cache
+C:\Users\achawla\Documents\courses\RAD_C#\InclassAssignments2017\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.exe
+C:\Users\achawla\Documents\courses\RAD_C#\InclassAssignments2017\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\achawla\Documents\courses\RAD_C#\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe.config
+C:\Users\achawla\Documents\courses\RAD_C#\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe
+C:\Users\achawla\Documents\courses\RAD_C#\Lesson02_MessageFormatter\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\achawla\Documents\courses\RAD_C#\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csprojResolveAssemblyReference.cache
+C:\Users\achawla\Documents\courses\RAD_C#\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.MessageForm.resources
+C:\Users\achawla\Documents\courses\RAD_C#\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.Properties.Resources.resources
+C:\Users\achawla\Documents\courses\RAD_C#\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csproj.GenerateResource.Cache
+C:\Users\achawla\Documents\courses\RAD_C#\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csproj.CoreCompileInputs.cache
+C:\Users\achawla\Documents\courses\RAD_C#\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.exe
+C:\Users\achawla\Documents\courses\RAD_C#\Lesson02_MessageFormatter\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe.config
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.exe
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\bin\Debug\Lesson02_MessageFormatter.pdb
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csprojResolveAssemblyReference.cache
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.MessageForm.resources
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.Properties.Resources.resources
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csproj.GenerateResource.Cache
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.csproj.CoreCompileInputs.cache
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.exe
+C:\Users\Dan Brost\Desktop\Georgian\Semester 3\Rapid App Development\Inclass Assignments\ICA2_DanBrost\Lesson02_MessageFormatter\obj\Debug\Lesson02_MessageFormatter.pdb
